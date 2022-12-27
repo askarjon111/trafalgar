@@ -1,0 +1,31 @@
+.header {
+    width: 1217px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo-header {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav-list {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav-item {
+    display: inline-block;
+    list-style: none;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+    opacity: 0.5;
+}
+
+.nav-link {
+    text-decoration: none;
+}
